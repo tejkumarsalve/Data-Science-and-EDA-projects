@@ -1,1 +1,1 @@
-# Machine-Learning-and-EDA-Projects
+# Data-Science-and-EDA-Projects
